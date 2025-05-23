@@ -1,6 +1,8 @@
 # PySide6-Calculator
 
-A modern calculator built with Python and PySide6.
+Ez majd egy jó kis számológép lesz. Arra használom ezt a projektet, hogy megtanuljam használni a githubot és a python PySide6 modulját.
+
+Többi leírás majd később fog jönni.
 
 # Features
 

@@ -1,22 +1,16 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# VS Code
 .vscode/
 
-# macOS
 .DS_Store
 
-# PyInstaller
 dist/
 build/
 *.spec
 
-# Virtual environments
 venv/
 .env/
 
-# Logs and system files
 *.log
