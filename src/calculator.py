@@ -46,7 +46,7 @@ class Calculator(QWidget):
         self.LayoutFrame = QHBoxLayout()
         self.LayoutFrame.setContentsMargins(0, 0, 0, 0)
 
-        self.LabelFrameTitle = QLabel("Hello")
+        self.LabelFrameTitle = QLabel("Calculator")
         self.LabelFrameTitle.setFont(QFont(self.CustomFont))
         self.LabelFrameTitle.setStyleSheet(
             """
